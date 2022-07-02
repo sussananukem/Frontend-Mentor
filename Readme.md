@@ -6,3 +6,4 @@
 - Challenge 02 - Interactive Rating Component [[Challenge Link]](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) | [[Solution Link]](https://62be00bbec3a3f0ccbcaa73f--superlative-maamoul-8e638b.netlify.app/)
 - Challenge 03 - NTF Preview Card Component [[Challenge Link]](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) | [[Solution Link]](https://62bf6b77a2d4273badd7e388--majestic-selkie-b08836.netlify.app/)
 - Challenge 04 - QR Code Component [[Challenge Link]](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/) | [[Solution Link]](https://gorgeous-pavlova-f309cd.netlify.app/)
+- Challenge 05 - Order Summary Component [[Challenge Link]](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) | [[Solution Link]](https://mellifluous-pithivier-f7b661.netlify.app/)
