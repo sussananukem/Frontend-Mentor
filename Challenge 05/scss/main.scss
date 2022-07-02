@@ -25,7 +25,7 @@ body {
     background-image: url(/images/pattern-background-mobile.svg);
     background-size: contain;
     background-repeat: no-repeat;
-    background-color: var(--clr-lighter-blue);
+    background-color: var(--clr-light-blue);
 
     @media (min-width: 700px) {
         background-image: url(/images/pattern-background-desktop.svg);
@@ -38,7 +38,7 @@ body {
     width: min(90%, 500px);
     display: flex;
     flex-direction: column;
-    background-color: white;
+    background-color: var(--clr-lighter-blue);
     box-shadow: 0 0 30px rgba(0, 0, 0, .2);
     
     &_hero {
