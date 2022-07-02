@@ -90,6 +90,7 @@ body {
         }
 
         .info_title {
+            color: var(--clr-dark-blue);
             font-size: clamp(1.50rem, calc(1.15rem + 1.50vw), 2.50rem);
             font-weight: 900;
             margin-bottom: 1rem;
@@ -108,6 +109,10 @@ body {
                 
                 .plan_price {
                     color: var(--clr-medium-blue);
+                }
+
+                .plan_title {
+                    color: var(--clr-dark-blue);
                 }
             }
 
