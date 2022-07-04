@@ -1,0 +1,24 @@
+:root {
+    --clr-primary-100: hsl(179, 100%, 13%);
+    --clr-primary-200: hsl(184, 100%, 22%);
+    --clr-primary-300: hsl(31, 77%, 52%);
+
+    --clr-neutral-100: rgba(255, 255, 255, 0.749);
+    --clr-neutral-200: rgb(242, 242, 242);
+
+    --ff-primary: 'Lexend Deca', sans-serif;
+    --ff-secondary: 'Big Shoulders Display', sans-serif;
+
+    --fs-400: 0.9375rem;
+    --fs-700: 2.34375rem;
+    
+    @media (min-width: 48em) {
+        // --fs-400: 1.40625rem;
+        // --fs-700: 2.34375rem;
+    }
+    
+    @media (min-width: 75em) {
+        --fs-400: 1.03125rem;
+        --fs-700: 2.8125rem;
+    }
+}
