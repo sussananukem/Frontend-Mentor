@@ -8,4 +8,4 @@
 - Challenge 04 - QR Code Component [[Challenge Link]](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/) | [[Solution Link]](https://gorgeous-pavlova-f309cd.netlify.app/)
 - Challenge 05 - Order Summary Component [[Challenge Link]](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) | [[Solution Link]](https://62bfe2232a7fa3055d07dfae--snazzy-cupcake-b129cf.netlify.app/)
 - Challenge 06 - Stats Preview Card Component [[Challenge Link]](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) | [[Solution Link]](https://62c0b68216537f0bc5af1120--luxury-macaron-51d752.netlify.app/)
-- Challenge 07 - 3-Column Preview Card Component [[Challenge Link]](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) | [[Solution Link]](https://github.com/developer-barcelos/Frontend-Mentor/tree/main/Challenge%2007)
+- Challenge 07 - 3-Column Preview Card Component [[Challenge Link]](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) | [[Solution Link]](https://regal-palmier-671807.netlify.app/)
