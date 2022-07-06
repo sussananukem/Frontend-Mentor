@@ -1,0 +1,106 @@
+.landing_header {
+    .header_logo {
+        margin-bottom: 3rem;
+        width: min(43%, 250px);
+    }
+}
+
+.landing_main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 4rem;
+
+    @media (min-width: 70em) {
+        text-align: left;
+        flex-direction: row;
+    }
+
+    .landing_hero {
+        flex: 1.5;
+
+        .main_image {
+            width: 100%;
+        }
+    }
+
+    .landing_text {
+        flex: 1;
+        color: var(--clr-neutral-100);
+        font-family: var(--ff-primary, sans-serif);
+
+        @media (min-width: 70em) {
+            margin-top: 3rem;
+        }
+
+        & > * + * {
+            margin-top: 1rem;
+        }
+
+        .landing_button {
+            background-color: var(--clr-neutral-100);
+            border: none;
+            border-radius: 30px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+            color: var(--clr-primary-100);
+            font-family: var(--ff-secondary, sans-serif);
+            padding: 0.5rem 4rem;
+
+            &:hover {
+                color: var(--clr-neutral-100);
+                background-color: var(--clr-primary-200);
+            }
+        }
+
+        .landing_content {
+            letter-spacing: 0.3px;
+            line-height: 1.5;
+        }
+
+        .landing_title {
+            font-family: var(--ff-secondary, sans-serif);
+            font-size: var(--fs-600);
+
+            @media (min-width: 70em) {
+                width: min(100%, 500px);
+            }
+
+            @media (min-width: 100em) {
+                width: min(100%, 700px);
+            }
+        }
+    }
+}
+
+.landing_footer {
+    .media {
+        display: flex;
+        justify-content: center;
+        margin-top: 5rem;
+        list-style: none;
+
+        @media (min-width: 70em) {
+            justify-content: flex-end;
+        }
+
+        &_link {
+            color: var(--clr-neutral-100);
+            border: 1px solid var(--clr-neutral-100);
+            padding: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            margin-left: 0.5rem;
+            height: min(8vw, 40px);
+            width: min(8vw, 40px);
+            text-decoration: none;
+
+            &:hover {
+                border-color: var(--clr-primary-200);
+                color: var(--clr-primary-200);
+            }
+        }
+    }
+}

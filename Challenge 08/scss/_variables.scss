@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins:wght@600&display=swap");
+
+:root {
+    --clr-primary-100: hsl(257, 40%, 49%);
+    --clr-primary-200: hsl(300, 69%, 71%);
+    --clr-neutral-100: hsl(0, 0%, 90%);
+
+    --ff-primary: "Open Sans";
+    --ff-secondary: "Poppins";
+
+    --fs-400: 1rem;
+    --fs-600: 1.5rem;
+
+    @media (min-width: 70em) {
+        --fs-600: 2.3rem;
+    }
+
+    @media (min-width: 100em) {
+        --fs-400: 1.25rem;
+        --fs-600: 2.9rem;
+    }
+}
